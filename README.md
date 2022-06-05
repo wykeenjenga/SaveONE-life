@@ -352,11 +352,11 @@ exports.androidPushNotification = functions.firestore.document('Chats/{uid}').on
 ## Orphanage Images
 <p float="left">
 <img src="https://user-images.githubusercontent.com/49823575/172049694-21391f1a-95fd-4e7b-adaf-c8ffc00fc6a8.jpg" data-canonical-src="https://user-images.githubusercontent.com/49823575/172049694-21391f1a-95fd-4e7b-adaf-c8ffc00fc6a8.jpg" width="330" height="450">
-<img src="https://user-images.githubusercontent.com/49823575/172049851-742fcd93-42ff-4143-835d-f63409fe8977.jpg" data-canonical-src="https://user-images.githubusercontent.com/49823575/172049851-742fcd93-42ff-4143-835d-f63409fe8977.jpg" width="330" height="450">
-<img src="https://user-images.githubusercontent.com/49823575/172050107-45fbc438-28f9-4931-a724-a1b5c63cf777.jpg" data-canonical-src="https://user-images.githubusercontent.com/49823575/172050107-45fbc438-28f9-4931-a724-a1b5c63cf777.jpg" width="330" height="450">
-      </p>
+      
        
-       
+ 
+ ## Thanks <span style="color: #e25555;">&hearts;</span>
+ Thanks to Google Developer Students Club for contributing towards the growth of [@DSCTTU](https://twitter.com/DscTtu?t=nLFp2oGleW6Tpu3XpzbugQ&s=09).     
 
 
 ## License
