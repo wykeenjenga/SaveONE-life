@@ -356,7 +356,9 @@ exports.androidPushNotification = functions.firestore.document('Chats/{uid}').on
 <img src="https://user-images.githubusercontent.com/49823575/172050107-45fbc438-28f9-4931-a724-a1b5c63cf777.jpg" data-canonical-src="https://user-images.githubusercontent.com/49823575/172050107-45fbc438-28f9-4931-a724-a1b5c63cf777.jpg" width="330" height="450">
       </p>
        
-       
+## Thanks <span style="color: #e25555;">&hearts;</span>
+Thanks to Google Developer Students Club for contributing towards the growth of [@DSCTTU](https://twitter.com/DscTtu?t=nLFp2oGleW6Tpu3XpzbugQ&s=09).
+
 
 
 ## License
